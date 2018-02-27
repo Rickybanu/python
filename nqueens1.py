@@ -1,7 +1,7 @@
 import copy
 
 def take_input():
-    """Accepts the size of the chess board"""
+    
 
     while True:
         try:
